@@ -1,0 +1,19 @@
+Package: profileScoreDist
+Type: Package
+Title: Profile score distributions
+Version: 0.99.2
+Date: 2015-12-09
+Author: Paal O. Westermark
+Maintainer: Paal O. Westermark <pal-olof.westermark@charite.de>
+Description: Regularization and score distributions for position count
+        matrices.
+License: MIT + file LICENSE
+biocViews: Software, GeneRegulation, StatisticalMethod
+LazyData: TRUE
+LinkingTo: Rcpp
+Imports: Rcpp, BiocGenerics, methods, graphics
+Depends: R(>= 3.3)
+Suggests: BiocStyle, knitr, MotifDb
+VignetteBuilder: knitr
+RoxygenNote: 5.0.1
+NeedsCompilation: yes

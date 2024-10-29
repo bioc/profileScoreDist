@@ -1,7 +1,7 @@
 Package: profileScoreDist
 Type: Package
 Title: Profile score distributions
-Version: 1.34.0
+Version: 1.35.0
 Date: 2015-12-09
 Author: Paal O. Westermark
 Maintainer: Paal O. Westermark <pal-olof.westermark@charite.de>
